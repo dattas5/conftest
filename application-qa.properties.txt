@@ -1,6 +1,0 @@
-one=1
-etwo=2
-three=3
-four=4
-five=5
-rrtt =erte
