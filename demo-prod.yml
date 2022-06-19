@@ -1,8 +1,8 @@
 yaml:
-  name: foo498
-  aliases:
+ - name: foo498
+   aliases:
     - abc
     - xyz
     - pqr
     - klm
-    - ;lasik
+    - kdsjk
