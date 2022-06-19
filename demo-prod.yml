@@ -1,12 +1,7 @@
 yaml:
-- name: foo498
+  name: foo498
   aliases:
     - abc
     - xyz
     - pqr
     - klm
- - name: bar698
-   aliases:
-    - 123
-    - 435
-    - 332    
