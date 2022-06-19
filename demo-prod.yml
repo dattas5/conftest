@@ -7,4 +7,7 @@ yaml:
     - pqr
     - klm
     - kdsjk
-    - lion  
+    - lion
+ - name: sdsd
+   aliases:
+    - sdf   
