@@ -9,7 +9,7 @@ yaml:
     - kdsjk
     - lion
   - name: foo499
-   aliases:
+    aliases:
     - abc
     - xyz
     - pqr
