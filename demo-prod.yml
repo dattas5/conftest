@@ -12,4 +12,14 @@ yaml:
    aliases:
     - sdf
     - safe
-    - face it    
+    - face it
+ - name: THIRD
+   aliases:
+    - one
+    - two
+    - three
+ - name: Fourth
+   aliases:
+    - sdf
+    - sasde
+    - fasd it    
