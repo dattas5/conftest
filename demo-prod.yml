@@ -1,4 +1,5 @@
 yaml:
+ demoObjects:
  - name: foo498
    aliases:
     - abc
