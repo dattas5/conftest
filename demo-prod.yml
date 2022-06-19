@@ -8,3 +8,11 @@ yaml:
     - klm
     - kdsjk
     - lion
+  - name: foo499
+   aliases:
+    - abc
+    - xyz
+    - pqr
+    - klm
+    - kdsjk
+    - lion   
