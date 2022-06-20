@@ -22,4 +22,11 @@ yaml:
    aliases:
     - sdf
     - sasde
-    - fasd it    
+    - fasd it
+ - name: Fifth
+   aliases:
+    - one
+    - two
+    - three
+    - four
+    - five    
